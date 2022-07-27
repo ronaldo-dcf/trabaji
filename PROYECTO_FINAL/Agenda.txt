@@ -1,0 +1,35 @@
+Cedula: 23
+Nombre: r
+Apellido: r
+Fecha nacimiento: 21
+Direccion: r
+Telefono: r
+Celular: r
+Cedula: 2
+Nombre: 3
+Apellido: fe
+Fecha nacimiento: few
+Direccion: fe
+Telefono: fw
+Celular: fe
+Cedula: 23
+Nombre: rona
+Apellido: aca
+Fecha nacimiento: 2022
+Direccion: avenida
+Telefono: 82731
+Celular: 232
+Cedula: 1
+Nombre: 21
+Apellido: 312
+Fecha nacimiento: 321
+Direccion: 321
+Telefono: 312
+Celular: 321
+Cedula: 1
+Nombre: ewq
+Apellido: eqw
+Fecha nacimiento: 12321
+Direccion: eqwe
+Telefono: 123132
+Celular: 3213

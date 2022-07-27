@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658882699 source:c:\users\ronaldo\downloads\a.e.d\proyecto_final\agenda\main.cpp
+	<iostream>
+	<fstream>
+
